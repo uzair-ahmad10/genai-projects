@@ -7,7 +7,6 @@ This workspace contains multiple projects focused on generative AI, machine lear
 | Project | Description | Link |
 | --- | --- | --- |
 | AIVideoAsistant | Video assistant project | [AIVideoAsistant](AIVideoAsistant) |
-| HeartAttackPrediction | Heart disease prediction app | [HeartAttackPrediction](HeartAttackPrediction) |
 | MultiAgentResearchSystem | Multi-agent research workflow | [MultiAgentResearchSystem](MultiAgentResearchSystem) |
 | YouTubeChatbot | YouTube chatbot project | [YouTubeChatbot](YouTubeChatbot) |
 
