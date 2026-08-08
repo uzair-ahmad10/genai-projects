@@ -1,0 +1,5 @@
+# File of enviroment variables
+.env
+
+# Virtual environment
+.venv

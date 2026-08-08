@@ -1,0 +1,20 @@
+# Core dependencies for YouTubeChatbot
+streamlit>=1.30.0
+
+# YouTube transcript and text/vector tooling
+youtube-transcript-api>=0.6.0
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-google-genai>=0.1.0
+langchain-groq>=0.1.0
+langchain-text-splitters>=0.1.0
+
+# Embedding support
+sentence-transformers>=3.0.0
+huggingface-hub>=0.23.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
