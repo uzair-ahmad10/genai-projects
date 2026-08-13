@@ -1,0 +1,10 @@
+# virtual environment 
+venv
+
+# api keys
+.env
+
+#TripPlanner
+TripPlanner
+
+
