@@ -9,6 +9,8 @@ This workspace contains multiple projects focused on generative AI, machine lear
 | AIVideoAsistant | Video assistant project | [AIVideoAsistant](AIVideoAsistant) |
 | MultiAgentResearchSystem | Multi-agent research workflow | [MultiAgentResearchSystem](MultiAgentResearchSystem) |
 | YouTubeChatbot | YouTube chatbot project | [YouTubeChatbot](YouTubeChatbot) |
+|Trip Planner| Multi Agent System that plan surprise plan for you | [TripPlanner](TripPlanner)|
+|Game Builder| Multi Agent System that generate a game in python | [GameBuilder](GameBuilder)| 
 
 ## Setup
 1. Create and activate a virtual environment.
